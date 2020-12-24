@@ -36,9 +36,6 @@ h3 {
     font-size: 1rem;
     font-weight: normal;
     color: black;
-   
-    background: linear-gradient(to bottom right, #8dc8eb, #165b9b);
-     
     height: 100vh; 
 }
 p {
