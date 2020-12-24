@@ -18,7 +18,7 @@ body {
     display: block;
     height: 100vh;
     text-align: center;
-     background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
+     background-image: linear-gradient(to top left, rgba(98,127,235) 0%, rgba(255,156,78) 100%);
 
 }
 .heading {
